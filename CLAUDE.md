@@ -1,7 +1,7 @@
 # CLAUDE.md — AI Agent Context
 
 This file is read automatically by Claude Code on every session.
-Follow everything here without being asked. When in doubt, consult PROCESS.md. test PR
+Follow everything here without being asked. When in doubt, consult PROCESS.md.
 
 ---
 
